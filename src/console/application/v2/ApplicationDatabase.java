@@ -16,7 +16,7 @@ public class ApplicationDatabase {
 	
 	public ApplicationDatabase() {
 		
-		courses.put("C1", new Courses ("Java Basics", "Low", 3));
+		courses.put("C1", new Courses ("Java Core", "Low", 3));
 		courses.put("C2", new Courses ("Advanced Java Tutorial", "Medium", 4));
 		courses.put("C3", new Courses ("SQL developers course", "Medium", 4));
 		courses.put("C4", new Courses ("DevOps Tutorial", "High", 5));
